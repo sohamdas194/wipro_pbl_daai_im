@@ -1,0 +1,7 @@
+1. Problem Solving by computer: https://talentnext.wipro.com/pbl/DAAI/LC/Problem%20Solving%20by%20Computer.pdf
+2. An Approach to Logic Building: https://talentnext.wipro.com/pbl/DAAI/LC/An_Approach_To_Logic_Buidling_v1.pdf
+3. LC1 - Number Based Problems: https://talentnext.wipro.com/pbl/DAAI/LC/LC1 - Number Based Problems.pdf
+4. LC2 - Loop Based Problems: https://talentnext.wipro.com/pbl/DAAI/LC/LC2 - Loop Based Problems.pdf
+5. LC3 - Array Based Problems: https://talentnext.wipro.com/pbl/DAAI/LC/LC3 - Array Based Problems.pdf
+6. LC4 - String Based Problems: https://talentnext.wipro.com/pbl/DAAI/LC/LC4 - String Based Problems.pdf
+7. LC5 - Sorting and Searching Based Problems: https://talentnext.wipro.com/pbl/DAAI/LC/LC5 - Sorting and Searching Based Problems.pdf

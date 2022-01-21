@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Learning JavaScript</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<!-- <script src="main.js"></script> -->
+</head>
+<!-- <body onload="showDate()"> -->
+<!-- <body id="body"> -->
+<body>
+	<div class="header">
+		<h1 id='heading'>Learning JavaScript</h1>
+		<p>With Brad Traversy</p>
+	</div>
+
+	<div class="container">
+		<!-- <h1 id="heading"></h1> -->
+
+		<!-- <button onclick="doClick()">Click Me</button> -->
+		<!-- <button onclick="this.innerHTML = 'You Clicked!'">Click Me</button> -->
+		<!-- <button onclick="changeText(this)">Click Me</button> -->
+		<!-- <button onclick="changeText()">Click Me</button> -->
+		<!-- <button onclick="showDate()">Show Date</button> -->
+
+		<!-- <button onmouseover="showDate()">Show Date</button> -->
+		<!-- <button onmouseover="showDate()" onmouseout="clearDate()">Show Date</button>
+
+		<h1 id="time"></h1> -->
+
+		<!-- Form -->
+		<form method="post" action="something.php" name="myForm" onsubmit="return validateForm()">
+			<div>
+				<label>First Name</label>
+				<input type="text" name="firstName" id="firstName" />
+			</div>
+			<br />
+			<div>
+				<label>Last Name</label>
+				<input type="text" name="lastName" id="lastName" />
+			</div>
+			<!-- <br />
+			<div>
+				<label>Background</label>
+				<select name="background" id="background" onchange="changeBackground(this)">
+					<option value="red">Red</option>
+					<option value="blue">Blue</option>
+					<option value="green">Green</option>
+				</select>
+			</div> -->
+			<br />
+			<input type="submit" value="Submit">
+		</form>
+	</div>
+
+	<script type="text/javascript">
+		// alert('Script Tags Work')
+
+		// Datatypes
+		// ----------
+		// Numbers
+		// String
+		// Array
+		// Object
+
+		// var number1 = 35;
+		// var number2 = '40';
+
+		// alert('My favorite number is ' + number1 + number2);
+
+		// variables can contain letters, numbers, underscores and dollar sign
+		// they should begin with a letter
+		// they can also start with _ or $
+		// they are also case sensitive
+
+		// var test = 'This is a test';
+		// var Test = 'This is another test'
+
+		// alert(Test);
+
+		// // camel case
+		// var myFavoriteNumber;
+		// myFavoriteNumber = 5;
+
+		// // partial case
+		// var MyFavoriteNumber
+
+		// // underscore
+		// var my_favorite_number;
+
+		// arrays
+		// var colors = ['red', 'blue', 'green'];
+		// or 
+		// var colors = new Array('red', 'yellow', 'orange')
+
+		// // colors[3] = 'green'
+
+		// colors.push('purple')
+
+		// alert(colors);
+
+		// var numbers = [5, 77, 6, 43, 'seven', 1, 55, 'a'];
+
+		// alert(numbers[2] + numbers[4]);
+		// alert(numbers.length)
+		// alert(numbers.sort())
+		// alert(numbers.reverse())
+
+		// Loops
+		// for(var i=0; i<=20; i++) {
+		// 	console.log('I love the number ' +i)
+		// }
+
+		// var i = 0
+		// while(i < 10) {
+		// 	console.log(i++);
+		// }
+
+		// var numbers = [15, 35, 23, 55, 96, 12];
+
+		// // numbers.forEach(function(number) {
+		// // 	console.log(number);
+		// // })
+
+		// numbers.reverse();
+
+		// for(var i = 0; i<numbers.length; i++) {
+		// 	console.log(numbers[i])
+		// }
+
+		// Conditionals
+		// == means simple equals but can be of different data types
+		// === means simple equals but have to be of same data types
+		// var var1 = 3;
+		// var var2 = 4;
+		// if (var1 == var2 || var1 == 3) {
+		// 	console.log('This is true')
+		// } else {
+		// 	console.log('This is false')
+		// }
+
+		// var fruit = 'grapes';
+
+		// switch(fruit) {
+		// 	case "banana":
+		// 		alert('I hate bananas');
+		// 		break;
+		// 	case "apple":
+		// 		alert('I love apples');
+		// 		break;
+		// 	case "orange":
+		// 		alert('Oranges are ok');
+		// 		break;
+		// 	default:
+		// 		alert("I love all other fruits");
+		// 		break;
+		// }
+
+		// Objects Literal
+
+		// var person = {
+		// 	firstname: 'Soham',
+		// 	lastname: 'Das',
+		// 	age: 34,
+		// 	children: ['Brianna', 'Nicholas'],
+		// 	address: {
+		// 		street: '555 Something st',
+		// 		city: 'Boston',
+		// 		state: 'MA'
+		// 	},
+		// 	fullName: function() {
+		// 		return this.firstname + " " + this.lastname
+		// 	}
+		// }
+
+		// console.log(person.fullName())
+
+		// Object Constructor
+		// var apple = new Object();
+		// apple.color = 'red';
+		// apple.shape = 'round';
+
+		// apple.describe = function() {
+		// 	return 'An apple is the color ' + this.color + ' and is the shape ' + this.shape;
+		// }
+
+		// console.log(apple.describe())
+
+		// Constructor Pattern
+		// function fruit(name, color, shape) {
+		// 	this.name = name;
+		// 	this.color = color;
+		// 	this.shape = shape;
+
+		// 	this.describe = function() {
+		// 		return 'A ' + this.name + ' is the color ' + this.color + ' and is the shape ' + this.shape;
+		// 	}
+		// }
+
+		// var apple = new fruit('apple', 'red', 'round');
+		// var melon = new fruit('melon', 'green', 'round');
+
+		// console.log(melon.describe());
+
+		// var users = [
+		// 	{
+		// 		name: 'John Doe',
+		// 		age: 30
+		// 	},
+		// 	{
+		// 		name: 'Mark Smith',
+		// 		age: 44
+		// 	},
+		// 	{
+		// 		name: 'Shelly Williams',
+		// 		age: 20
+		// 	}
+		// ]
+
+		// console.log(users[0].name)
+
+		// Events
+		// function doClick() {
+		// 	alert('You Clicked!');
+		// }
+
+		// function changeText(id) {
+		// 	id.innerHTML = 'You Clicked!';
+		// }
+
+		// function changeText() {
+		// 	var heading = document.getElementById('heading');
+		// 	heading.innerHTML = 'You Clicked!';
+		// }
+
+		// function showDate() {
+		// 	var time = document.getElementById('time');
+		// 	time.innerHTML = Date();
+		// }
+
+		// function clearDate() {
+		// 	var time = document.getElementById('time');
+		// 	time.innerHTML = '';
+		// }
+
+		// function changeBackground(x) {
+		// 	console.log(x.value);
+		// 	// var body = document.getElementById('body');
+		// 	var heading = document.getElementById('heading');
+		// 	// body.style.backgroundColor = x.value;
+		// 	heading.style.color = x.value;
+		// }
+
+		function validateForm() {
+			var firstName = document.forms["myForm"]["firstName"].value;
+
+			if(firstName == null || firstName == '') {
+				alert('First name is required');
+				return false;
+			}
+
+			if(firstName.length < 3) {
+				alert('First name must be alteast 3 chars');
+				return false;
+			}
+		}
+	</script>
+
+</body>
+</html>

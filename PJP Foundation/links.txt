@@ -1,0 +1,58 @@
+Foundation -->
+--------------
+
+Operating System Tips:
+......................
+1. Windows 10: Top 20 Tips & Tricks -> https://youtu.be/skKRxAU8hJk
+2. Windows 10: Features -> https://youtu.be/KkqcL1H6pvY
+3. Linux: 10 basic commands -> https://youtu.be/CpTfQ-q6MPU
+4. Linux: 5 more commands -> https://youtu.be/nbXwdIhR0HE
+5. File Management - Part 1 -> https://youtu.be/k-EID5_2D9U
+6. File Management - Part 2 -> https://youtu.be/DGd48PGbnBs
+7. File Management - Part 3 -> https://youtu.be/F7mAoa0fOts
+---------------------------------------------------
+Database Fundamentals:
+......................
+1. Database overview -> https://youtu.be/wR0jg0eQsZA
+2. ER Diagram Part1 -> https://youtu.be/QpdhBUYk7Kk
+3. ER Diagram Part2 -> https://youtu.be/-CuY5ADwn24
+4. The SQL -> https://youtu.be/kqUIoOM3WEs
+---------------------------------------------------
+OOPS Concepts:
+..............
+1. OOPS in 7 minutes -> https://youtu.be/pTB0EiLXUC8
+---------------------------------------------------
+Web Programming:
+................
+1. HTML5 crash course for beginners -> https://youtu.be/UB1O30fR-EE
+2. CSS crash course for beginners -> https://youtu.be/yfoY53QXEnI
+3. Javascript basics for beginners -> https://youtu.be/vEROU2XtPR8
+====================================================
+Motivations -->
+---------------
+
+1. No Excuses -> https://youtu.be/wnHW6o8WMas
+2. Arnold: Do not have a Plan-B -> https://youtu.be/qNpEFf0I60M
+3. Every Dream starts small -> 
+4. Stay Committed -> 
+5. Practice: Genius is about Practice. -> 
+6. Be Relentless -> 
+7. Don't Quit: If I don’t quit, I cannot fail. -> 
+8. Excellence: Become the BEST -> 
+9. Never Give Up ->  
+====================================================
+IT Trends -->
+-------------
+
+1. Git & GitHub Crash Course -> https://youtu.be/SWYqp7iY_Tc
+2. What is DevOps? -> https://youtu.be/mBBgRdlC4sc
+3. What is IoT? By Sundar Pichai -> https://youtu.be/gHnyepuo4iA
+4. What is the Internet of Things? -> https://youtu.be/_AlcRoqS65E
+5. What is Artificial Intelligence? -> https://youtu.be/fvtrRGmv7aU
+6. Machine Learning Basics -> https://youtu.be/ukzFI9rgwfU
+7. What is Blockchain? By CIGI -> https://youtu.be/3xGLc-zz9cA
+8. How does a Blockchain work? -> https://youtu.be/SSo_EIwHSd4
+9. AI: Interview with Sophia -> https://youtu.be/S5t6K9iwcdw
+10. What's new, Atlas? -> https://youtu.be/fRj34o4hN4I
+11. Google's DeepMind AI -> https://youtu.be/gn4nRCC9TwQ
+12. Self Driving Robot -> 

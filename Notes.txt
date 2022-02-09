@@ -1,0 +1,16 @@
+http://www.uvm.edu/~kdk/demobld.sql
+livesql.oracle.com
+https://github.com/oracle/db-sample-schemas/blob/main/human_resources/hr_cre.sql
+https://github.com/oracle/db-sample-schemas/blob/main/human_resources/hr_popul.sql
+https://replit.com/languages/python3
+https://replit.com/languages/sqlite
+https://youtu.be/QXeEoD0pB3E
+https://app.codility.com/self-register/Wipro-Limited-CMS-Link1/
+https://talentnext.wipro.com/jforum/forums/list.page
+https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions001.htm
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link2
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link3 
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link4
+
+SELECT ENAME,RPAD(LPAD(ENAME,LENGTH(ENAME)*2,'*'),LENGTH(ENAME)*3,'*') FROM EMP
+SELECT SUBSTR('+91-9876543210',1,3)||LPAD(SUBSTR('+91-9876543210', 13,2), 11, '*') FROM DUAL;

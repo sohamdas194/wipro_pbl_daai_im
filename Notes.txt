@@ -1,3 +1,13 @@
+q5k3peekr2u7duenivgibf5xwc7w3ugz
+
+TCS HR: sabita.kumari@tcs.com
+
+2083588
+
+23120982
+
+https://app.joinsuperset.com/join/#/signup/student/jobprofiles/fc5074dc-ec91-49eb-b2ab-9f00ed5e2eb6
+
 http://www.uvm.edu/~kdk/demobld.sql
 livesql.oracle.com
 https://github.com/oracle/db-sample-schemas/blob/main/human_resources/hr_cre.sql
@@ -8,9 +18,45 @@ https://youtu.be/QXeEoD0pB3E
 https://app.codility.com/self-register/Wipro-Limited-CMS-Link1/
 https://talentnext.wipro.com/jforum/forums/list.page
 https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions001.htm
-https://app.codility.com/public-link/Wipro-Limited-CMS-Link2
-https://app.codility.com/public-link/Wipro-Limited-CMS-Link3 
-https://app.codility.com/public-link/Wipro-Limited-CMS-Link4
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link1  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link2  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link3  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link4  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link5   
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link6  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link7  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link8  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link9  
+https://app.codility.com/public-link/Wipro-Limited-CMS-Link10
+https://wiprocon.webex.com/wiprocon/j.php?MTID=m7713e7c98aa39c2288bbdda93eec2b1c
 
 SELECT ENAME,RPAD(LPAD(ENAME,LENGTH(ENAME)*2,'*'),LENGTH(ENAME)*3,'*') FROM EMP
 SELECT SUBSTR('+91-9876543210',1,3)||LPAD(SUBSTR('+91-9876543210', 13,2), 11, '*') FROM DUAL;
+
+Our 4th sem mark sheet has not been released yet, all I have is a provisional result list containing my total marks (638/700) and my pass status.
+Due to the pandemic, neither our 4th sem mark sheet nor a provisional soft copy has been released yet, all I have is a result list containing my total marks (638 out of 700) and my pass status. I will upload it as soon as I get it.
+
+swati.chaudhary5@wipro.com anurag.kirti@wipro.com
+
+D-113203390
+wipro@123
+
+ramachandra.sekhar@wipro.com
+
+sys as sysdba
+alter user hr identified by hr account unlock;
+
+swati.chaudhary5@wipro.com
+Please write a mail to this email id in the following format. -
+superset id:
+name:
+Email id:
+College name:
+Issue:
+Note: Please mention ELITE or WILP in 
+
+
+For PJP related queries you all can mail at head.pjp@wipro.comthe subject line
+anurag.kirti@wipro.com
+
+SELECT ENAME FROM EMP WHERE SAL = (SELECT MAX(SAL) FROM EMP WHERE DEPTNO = 20) AND DEPTNO = 20;

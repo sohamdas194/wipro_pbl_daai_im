@@ -1,0 +1,4 @@
+soham@ubuntu:~$ umask o-rwx
+soham@ubuntu:~$ touch testFile
+soham@ubuntu:~$ mkdir testdir
+soham@ubuntu:~$ ls -l

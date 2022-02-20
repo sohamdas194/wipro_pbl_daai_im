@@ -1,0 +1,2 @@
+soham@ubuntu:~$ (cd /bin && ls -al | grep -v '^d\|^-')
+

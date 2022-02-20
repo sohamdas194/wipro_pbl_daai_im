@@ -1,0 +1,2 @@
+soham@ubuntu:~$ zip -r myfiles.zip *
+soham@ubuntu:~$ unzip myfiles.zip 

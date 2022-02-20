@@ -1,0 +1,2 @@
+soham@ubuntu:~$ mkdir newdir
+soham@ubuntu:~$ chmod 700 newdir

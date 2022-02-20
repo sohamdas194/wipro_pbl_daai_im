@@ -1,0 +1,3 @@
+soham@ubuntu:~$ ls -li
+
+Ans: No, the inode number of newdir and newdir-sl is not the same.

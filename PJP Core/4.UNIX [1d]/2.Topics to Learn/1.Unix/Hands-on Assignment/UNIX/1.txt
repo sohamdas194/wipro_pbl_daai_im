@@ -1,0 +1,2 @@
+soham@ubuntu:~$ touch test123
+soham@ubuntu:~$ chmod go-w test123

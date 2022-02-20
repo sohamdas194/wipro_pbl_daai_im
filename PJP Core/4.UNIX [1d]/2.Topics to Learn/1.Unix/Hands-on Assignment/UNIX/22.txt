@@ -1,0 +1,1 @@
+soham@ubuntu:~$ tar cvf file.tar $(ls | grep '^[a-z]')

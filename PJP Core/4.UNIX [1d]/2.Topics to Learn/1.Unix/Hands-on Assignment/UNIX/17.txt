@@ -1,0 +1,1 @@
+soham@ubuntu:~$ ls -ld */ /

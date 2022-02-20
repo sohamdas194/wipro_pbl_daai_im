@@ -1,0 +1,5 @@
+two links are:
+
+. : It represents the current directory
+
+.. : It reperesents the parrent directory in which the current directory resides

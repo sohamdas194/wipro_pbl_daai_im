@@ -1,0 +1,3 @@
+soham@ubuntu:~$ ls -li
+
+Ans: No, the inode number of test123 and test123-sl is not the same.

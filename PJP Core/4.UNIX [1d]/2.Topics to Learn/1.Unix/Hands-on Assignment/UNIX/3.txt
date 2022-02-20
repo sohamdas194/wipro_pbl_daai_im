@@ -1,0 +1,2 @@
+soham@ubuntu:~$ touch a b c
+soham@ubuntu:~$ cp a b c newdir

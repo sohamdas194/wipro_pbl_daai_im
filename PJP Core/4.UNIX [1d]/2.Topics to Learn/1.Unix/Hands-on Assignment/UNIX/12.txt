@@ -1,0 +1,1 @@
+soham@ubuntu:~$ sudo find / -inum 1

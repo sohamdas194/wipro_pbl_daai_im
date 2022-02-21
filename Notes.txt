@@ -55,3 +55,14 @@ For PJP related queries you all can mail at head.pjp@wipro.comthe subject line
 anurag.kirti@wipro.com
 
 SELECT ENAME FROM EMP WHERE SAL = (SELECT MAX(SAL) FROM EMP WHERE DEPTNO = 20) AND DEPTNO = 20;
+
+https://forms.gle/e4fy8VXsM1xuaw6m6
+
+Using set operator display the DEPTNO,SUM(SAL) for each dept, JOB,SUM(SAL) for each Job and Total Salary.:
+select deptno, ' ', sum(sal) from emp group by deptno
+union
+select deptno, job, sum(sal) from emp group by deptno, job
+
+Create a report that displays EMPNO,ENAME,DEPTNO of employees who work with that Employee.(Nested Sub Query)
+
+http://d-113101581.wipro.com/PBLApp

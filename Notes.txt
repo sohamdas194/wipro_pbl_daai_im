@@ -66,3 +66,12 @@ select deptno, job, sum(sal) from emp group by deptno, job
 Create a report that displays EMPNO,ENAME,DEPTNO of employees who work with that Employee.(Nested Sub Query)
 
 http://d-113101581.wipro.com/PBLApp
+
+https://wiprocon.webex.com/wiprocon/j.php?MTID=mf37cc1e2535cd8d36134d00a701dc683
+
+https://oracle-base.com/articles/misc/with-clause
+
+https://www.oracletutorial.com/plsql-tutorial/plsql-exception/
+
+PRP.PMP@WIPRO.COM
+PJP.HEAD@WIPRO.COM

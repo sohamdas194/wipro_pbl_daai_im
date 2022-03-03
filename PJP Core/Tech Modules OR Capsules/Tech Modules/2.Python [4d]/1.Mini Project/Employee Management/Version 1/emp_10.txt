@@ -1,0 +1,4 @@
+~~~~~~~Employees of department no. 10~~~~~~~
+EMPID		ENAME		SAL		DEPTNO
+---------------------------------------------
+2001		ROHAM		4003.0		10

@@ -1,0 +1,4 @@
+~~~~~~~Employees of department no. 20~~~~~~~
+EMPID		ENAME		SAL		DEPTNO
+---------------------------------------------
+1001		SOHAM		3004.0		20

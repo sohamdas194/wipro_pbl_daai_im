@@ -1,0 +1,4 @@
+~~~~~~~Employees of department no. 30~~~~~~~
+EMPID		ENAME		SAL		DEPTNO
+---------------------------------------------
+6003		TOHAM		5002.0		30

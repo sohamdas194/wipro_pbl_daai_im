@@ -1,0 +1,5 @@
+~~~~~~~Employees of department no. 10~~~~~~~
+EMPID		ENAME		SAL		DEPTNO
+---------------------------------------------
+2001		ROHAM		4003.0		10
+5002		YOHAM		8096.0		10

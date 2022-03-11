@@ -1,0 +1,6 @@
+SELECT ENAME, 
+DECODE(JOB, 'PRESIDENT', 'A',
+                'MANAGER', 'B',
+                'SALESMAN', 'C',
+                'CLERK', 'D') "GRADE"
+FROM EMP;

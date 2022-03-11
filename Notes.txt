@@ -75,3 +75,8 @@ https://www.oracletutorial.com/plsql-tutorial/plsql-exception/
 
 PRP.PMP@WIPRO.COM
 PJP.HEAD@WIPRO.COM
+
+https://www.techonthenet.com/oracle/cursors/current_of.php
+
+https://docs.oracle.com/cd/B10500_01/appdev.920/a96624/c_wrap.htm
+https://docs.oracle.com/database/121/LNPLS/wrap.htm#LNPLS01602

@@ -1,0 +1,2 @@
+SELECT ENAME, 'earns ' || SAL || ' monthly but wants ' || SAL*3 "Dream Salaries" 
+FROM EMP;

@@ -1,0 +1,3 @@
+SELECT E.ENAME "Employee", E.EMPNO "EMP#", M.ENAME "Manager", M.EMPNO "Mgr#"
+FROM EMP E JOIN EMP M 
+ON (E.MGR = M.EMPNO);
